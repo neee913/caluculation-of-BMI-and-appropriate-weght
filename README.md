@@ -37,8 +37,9 @@ BMI＝体重（kg）/身長（m）^2
  
 # License
 
- この"caluculation-of-BMI-and-appropriate-weght" は　[MIT license]　のもとで公開されています。(https://en.wikipedia.org/wiki/MIT_License)　LICENCE.md.を見てください。
+ この"caluculation-of-BMI-and-appropriate-weght" は　[MIT license]　のもとで公開されています。(https://en.wikipedia.org/wiki/MIT_License)　
  
+ LICENCE.md.を見てください。
 # これから
 
 BMIは、その値によって低体重、普通体重、肥満１度、肥満２度、肥満３度、肥満４度に肥満度を判定することが出来る。BMIの値からこれらを判定して、肥満度の情報も表に追加できるようにしたい。また、適正体重からは、一日に必要なカロリーの目安も計算できるため、その情報も追加したい。
