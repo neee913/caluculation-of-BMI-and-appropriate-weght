@@ -43,3 +43,19 @@ BMI＝体重（kg）/身長（m）^2
 # これから
 
 BMIは、その値によって低体重、普通体重、肥満１度、肥満２度、肥満３度、肥満４度に肥満度を判定することが出来る。BMIの値からこれらを判定して、肥満度の情報も表に追加できるようにしたい。また、適正体重からは、一日に必要なカロリーの目安も計算できるため、その情報も追加したい。
+
+# 参考
+
+ファイルからのテーブルの作成　
+
+https://jp.mathworks.com/help/matlab/ref/readtable.html
+
+テーブルへの変数の追加　
+
+https://jp.mathworks.com/help/matlab/matlab_prog/create-a-table.html
+
+BMI、適正体重
+
+https://keisan.casio.jp/exec/system/1161228732
+
+https://www.benricho.org/bmi/index.html
